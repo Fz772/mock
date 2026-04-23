@@ -210,5 +210,30 @@
       "lng": 4.9900,
       "available": 60
     }
+  ],
+  "events" : [
+    {
+      "id": 1,
+      "title": "Lyon Food Festival",
+      "date": "2026-05-01",
+      "image": "https://picsum.photos/300/200?random=1"
+    },
+    {
+      "id": 2,
+      "title": "Jazz Night Lyon",
+      "date": "2026-05-03",
+      "image": "https://picsum.photos/300/200?random=2"
+    },
+    {
+      "id": 3,
+      "title": "Art Expo 2026",
+      "date": "2026-05-05",
+      "image": "https://picsum.photos/300/200?random=3"
+    }
+  ],
+  "pages": {
+    "next": "/events?page=2",
+    "prev": null
+  }
   ]
 }
