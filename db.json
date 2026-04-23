@@ -230,10 +230,5 @@
       "date": "2026-05-05",
       "image": "https://picsum.photos/300/200?random=3"
     }
-  ],
-  "pages": {
-    "next": "/events?page=2",
-    "prev": null
-  }
   ]
 }
