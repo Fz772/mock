@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Bellecour Parking",
+      "lat": 45.7578,
+      "lng": 4.8320,
+      "available": 120
+    },
+    {
+      "id": 2,
+      "name": "Part-Dieu Parking",
+      "lat": 45.7600,
+      "lng": 4.8590,
+      "available": 45
+    },
+    {
+      "id": 3,
+      "name": "Vieux Lyon Parking",
+      "lat": 45.7625,
+      "lng": 4.8275,
+      "available": 10
+    },
+    {
+      "id": 4,
+      "name": "Confluence Parking",
+      "lat": 45.7435,
+      "lng": 4.8150,
+      "available": 200
+    },
+    {
+      "id": 5,
+      "name": "Croix-Rousse Parking",
+      "lat": 45.7740,
+      "lng": 4.8325,
+      "available": 0
+    },
+    {
+      "id": 6,
+      "name": "Gerland Parking",
+      "lat": 45.7300,
+      "lng": 4.8300,
+      "available": 85
+    },
+    {
+      "id": 7,
+      "name": "Jean Macé Parking",
+      "lat": 45.7450,
+      "lng": 4.8420,
+      "available": 60
+    },
+    {
+      "id": 8,
+      "name": "Brotteaux Parking",
+      "lat": 45.7660,
+      "lng": 4.8585,
+      "available": 25
+    },
+    {
+      "id": 9,
+      "name": "Perrache Parking",
+      "lat": 45.7480,
+      "lng": 4.8250,
+      "available": 5
+    },
+    {
+      "id": 10,
+      "name": "Sans Souci Parking",
+      "lat": 45.7485,
+      "lng": 4.8640,
+      "available": 95
+    },
+    {
+      "id": 11,
+      "name": "Monplaisir Parking",
+      "lat": 45.7455,
+      "lng": 4.8700,
+      "available": 30
+    },
+    {
+      "id": 12,
+      "name": "Vaise Parking",
+      "lat": 45.7800,
+      "lng": 4.8050,
+      "available": 70
+    },
+    {
+      "id": 13,
+      "name": "Gorge de Loup Parking",
+      "lat": 45.7700,
+      "lng": 4.8055,
+      "available": 15
+    },
+    {
+      "id": 14,
+      "name": "Cordeliers Parking",
+      "lat": 45.7620,
+      "lng": 4.8350,
+      "available": 0
+    },
+    {
+      "id": 15,
+      "name": "Saxe Gambetta Parking",
+      "lat": 45.7530,
+      "lng": 4.8425,
+      "available": 110
+    },
+    {
+      "id": 16,
+      "name": "Villeurbanne Center Parking",
+      "lat": 45.7715,
+      "lng": 4.8900,
+      "available": 140
+    },
+    {
+      "id": 17,
+      "name": "Charpennes Parking",
+      "lat": 45.7705,
+      "lng": 4.8635,
+      "available": 20
+    },
+    {
+      "id": 18,
+      "name": "Flachet Parking",
+      "lat": 45.7680,
+      "lng": 4.8800,
+      "available": 55
+    },
+    {
+      "id": 19,
+      "name": "Gratte-Ciel Parking",
+      "lat": 45.7675,
+      "lng": 4.8790,
+      "available": 75
+    },
+    {
+      "id": 20,
+      "name": "Cusset Parking",
+      "lat": 45.7630,
+      "lng": 4.9000,
+      "available": 0
+    },
+    {
+      "id": 21,
+      "name": "La Soie Parking",
+      "lat": 45.7600,
+      "lng": 4.9200,
+      "available": 180
+    },
+    {
+      "id": 22,
+      "name": "Mermoz Parking",
+      "lat": 45.7305,
+      "lng": 4.8870,
+      "available": 40
+    },
+    {
+      "id": 23,
+      "name": "Parilly Parking",
+      "lat": 45.7200,
+      "lng": 4.9005,
+      "available": 150
+    },
+    {
+      "id": 24,
+      "name": "Bron Center Parking",
+      "lat": 45.7350,
+      "lng": 4.9100,
+      "available": 65
+    },
+    {
+      "id": 25,
+      "name": "Saint Priest Parking",
+      "lat": 45.6950,
+      "lng": 4.9400,
+      "available": 95
+    },
+    {
+      "id": 26,
+      "name": "Oullins Parking",
+      "lat": 45.7150,
+      "lng": 4.8100,
+      "available": 50
+    },
+    {
+      "id": 27,
+      "name": "Pierre-Bénite Parking",
+      "lat": 45.7000,
+      "lng": 4.8200,
+      "available": 35
+    },
+    {
+      "id": 28,
+      "name": "Caluire Parking",
+      "lat": 45.8000,
+      "lng": 4.8500,
+      "available": 125
+    },
+    {
+      "id": 29,
+      "name": "Rillieux Parking",
+      "lat": 45.8200,
+      "lng": 4.8800,
+      "available": 80
+    },
+    {
+      "id": 30,
+      "name": "Meyzieu Parking",
+      "lat": 45.7700,
+      "lng": 4.9900,
+      "available": 60
+    }
+  ]
+}
