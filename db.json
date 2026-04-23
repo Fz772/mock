@@ -230,5 +230,78 @@
       "date": "2026-05-05",
       "image": "https://picsum.photos/300/200?random=3"
     }
+  ], 
+  "weather": [
+    {
+      "day": "Monday",
+      "date": "2026-04-20",
+      "temperature": {
+        "min": 24,
+        "max": 32
+      },
+      "status": "sunny",
+      "icon": "sun.svg"
+    },
+    {
+      "day": "Tuesday",
+      "date": "2026-04-21",
+      "temperature": {
+        "min": 23,
+        "max": 30
+      },
+      "status": "cloudy",
+      "icon": "cloud.svg"
+    },
+    {
+      "day": "Wednesday",
+      "date": "2026-04-22",
+      "temperature": {
+        "min": 22,
+        "max": 29
+      },
+      "status": "rainy",
+      "icon": "rain.svg"
+    },
+    {
+      "day": "Thursday",
+      "date": "2026-04-23",
+      "temperature": {
+        "min": 24,
+        "max": 31
+      },
+      "status": "storm",
+      "icon": "storm.svg"
+    },
+    {
+      "day": "Friday",
+      "date": "2026-04-24",
+      "temperature": {
+        "min": 25,
+        "max": 33
+      },
+      "status": "sunny",
+      "icon": "sun.svg"
+    },
+    {
+      "day": "Saturday",
+      "date": "2026-04-25",
+      "temperature": {
+        "min": 23,
+        "max": 30
+      },
+      "status": "windy",
+      "icon": "wind.svg"
+    },
+    {
+      "day": "Sunday",
+      "date": "2026-04-26",
+      "temperature": {
+        "min": 22,
+        "max": 28
+      },
+      "status": "rainy",
+      "icon": "rain.svg"
+    }
   ]
+
 }
